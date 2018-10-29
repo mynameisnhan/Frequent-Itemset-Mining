@@ -6,7 +6,7 @@ My improved apriori seeks to address classical apriori's redundant candidate gen
 
 ## To Run
 
-In Main.java: change the dataset attributes on line 19 as needed
+In Main.java, change the dataset attributes on line 19 as needed
 
 Open command prompt
 
