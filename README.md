@@ -1,10 +1,12 @@
 # Frequent-Itemset-Mining
 
-=== TO EDIT ===
+=== INPUT RESTRICTIONS ===
 
-In Main.java: change the dataset attributes on line 19 as needed
+Data file must NOT include an attribute row.
 
 === TO RUN ===
+
+In Main.java: change the dataset attributes on line 19 as needed
 
 Open command prompt
 
