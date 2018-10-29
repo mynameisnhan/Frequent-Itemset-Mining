@@ -1,6 +1,10 @@
 # Frequent-Itemset-Mining
-=== TO RUN ===\n
-Open command prompt\n
-Change directory to project folder\n
-To compile, type: javac \*.java\n
+=== TO RUN ===
+
+Open command prompt
+
+Change directory to project folder
+
+To compile, type: javac \*.java
+
 To run, type: java Main
