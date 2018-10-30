@@ -22,5 +22,4 @@ Data file must NOT include an attribute row.
 
 ## Improvements
 
-Allow user to change dataset attributes via command line inputs
-
+Allow user to change dataset attributes via command line inputs.
