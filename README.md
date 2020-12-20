@@ -2,7 +2,7 @@
 
 Accuracies and runtimes for classical apriori, FP-growth, and my improved apriori are compared. 
 
-My improved apriori seeks to address classical apriori's redundant candidate generation. With my improvement, transactions are parsed only once at the start into an array as opposed to before every iteration in classical apriori. Since information about every transaction is in an array, we can mark which transaction lines lack infrequent itemsets and therefore will undergo candidate generation and which transaction lines contain infrequent itemsets will skip candidate generation.
+My improved apriori seeks to address classical apriori's redundant candidate generation. With my improvement, transactions are parsed only once into an array as opposed to before every iteration in classical apriori. Since information about every transaction is stored inside the array, we can mark which transaction lines lack infrequent itemsets (and will undergo candidate generation) and which transaction lines contain infrequent itemsets (and will skip candidate generation).
 
 ## To Run
 
