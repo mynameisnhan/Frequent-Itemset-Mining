@@ -20,6 +20,6 @@ To run, type: java Main
 
 Data file must NOT include an attribute row.
 
-## Improvements
+## Future Improvements
 
 Allow user to change dataset attributes via command line inputs.
